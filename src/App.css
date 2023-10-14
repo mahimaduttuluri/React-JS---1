@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+textarea {
+  width: 100%;
+  /* Changed from 50% to 100% to make the textarea full width */
+  padding: 10px;
+  font-size: 16px;
+}
+
+p {
+  font-weight: bold;
+  margin-top: 10px;
+  /* Added margin-top for some space between the textarea and word count */
+}
